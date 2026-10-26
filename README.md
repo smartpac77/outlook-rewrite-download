@@ -16,7 +16,9 @@ First time, open **Rewrite Settings** to choose an AI provider and paste your AP
 
 ## Pricing
 
-Free for 90 days. After that, a one-time **$1 lifetime license** — [buy here](https://payhip.com/b/bGyCq). 30-day money-back guarantee.
+Try it free for 90 days. After that, a lifetime license is just **$1** — one-time payment, no subscription — [buy here](https://payhip.com/b/bGyCq). 30-day money-back guarantee.
+
+All proceeds are donated to charities supporting orphans and underprivileged students in Ethiopia and Tanzania.
 
 ## Requirements
 
