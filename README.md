@@ -1,18 +1,23 @@
 # Rewrite for Outlook
 
-Rewrite email text into professional business English using Claude, GPT, Gemini, Grok or Llama — right inside classic (desktop) Outlook.
+Rewrite email text into professional business language using Claude, GPT, Gemini, Grok or Llama — in classic (desktop) Outlook, Mac Outlook, Outlook on the web, or new Outlook for Windows.
 
 ## Download
 
-Grab the latest `Rewrite_Add-In.zip` from the [Releases](../../releases) page, unzip it, and run `setup.exe`.
+Grab the latest `Rewrite_v1.3.6.0.zip` from the [Releases](../../releases) page and unzip it. Inside:
+
+- **Windows-Classic-Outlook/** — classic (desktop) Outlook. Run `setup.exe`.
+- **Mac-Web-NewOutlook/** — Mac Outlook, Outlook on the web, or new Outlook for Windows. See the `INSTALL.txt` inside.
+
+Not sure which you have? Classic Outlook has a traditional File/Home/Send-Receive ribbon and runs as a desktop app you launch from the Start Menu. New Outlook, Outlook on the web, and Outlook on Mac all use the simplified, web-style interface (new Outlook for Windows also shows a "Try the new Outlook" toggle).
 
 ## How to use
 
-1. Select text in an email (or just place your cursor in a paragraph).
-2. Right-click → **Rewrite**, or click the Rewrite button on the ribbon.
-3. The text is replaced in place. Press Ctrl+Z to undo.
+**Classic Outlook:** select text in an email (or just place your cursor in a paragraph), right-click → **Rewrite**, or click the Rewrite button on the ribbon. The text is replaced in place. Press Ctrl+Z to undo.
 
-First time, open **Rewrite Settings** to choose an AI provider and paste your API key.
+**Mac / web / new Outlook:** select text (or leave nothing selected to rewrite the whole message), click the **Rewrite** button in the ribbon to open the task pane, then click one of the **Rewrite → [Language]** buttons. Note: new Outlook for Windows doesn't yet support reading only a text selection (a Microsoft platform limitation) — it always rewrites the whole message there.
+
+First time, open Settings to choose an AI provider, paste your own API key, and set your target language(s).
 
 ## Pricing
 
@@ -22,4 +27,7 @@ All proceeds are donated to charities supporting orphans and underprivileged stu
 
 ## Requirements
 
-Windows with classic (desktop) Outlook (Microsoft 365 or Office). Not compatible with the new Outlook or OWA yet.
+Your own API key from any supported provider (most offer free trial credit), plus one of:
+
+- Windows with classic (desktop) Outlook (Microsoft 365 or Office)
+- Mac Outlook, Outlook on the web, or new Outlook for Windows
