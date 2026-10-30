@@ -4,7 +4,7 @@ Rewrite email text into professional business language using Claude, GPT, Gemini
 
 ## Download
 
-Grab the latest `Rewrite_v1.3.6.0.zip` from the [Releases](../../releases) page and unzip it. Inside:
+Grab the latest `Rewrite_v1.3.8.0.zip` from the [Releases](../../releases) page and unzip it. Inside:
 
 - **Windows-Classic-Outlook/** — classic (desktop) Outlook. Run `setup.exe`.
 - **Mac-Web-NewOutlook/** — Mac Outlook, Outlook on the web, or new Outlook for Windows. See the `INSTALL.txt` inside.
