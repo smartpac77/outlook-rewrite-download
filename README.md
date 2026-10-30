@@ -11,6 +11,11 @@ Grab the latest `Rewrite_v1.3.6.0.zip` from the [Releases](../../releases) page 
 
 Not sure which you have? Classic Outlook has a traditional File/Home/Send-Receive ribbon and runs as a desktop app you launch from the Start Menu. New Outlook, Outlook on the web, and Outlook on Mac all use the simplified, web-style interface (new Outlook for Windows also shows a "Try the new Outlook" toggle).
 
+If your Microsoft 365/work account supports "Add a custom add-in → Add from URL" (not every account does — personal accounts usually need "Add from File" instead), use this URL directly, no download needed:
+`https://smartpac77.github.io/outlook-rewrite-web-pages/manifest.xml`
+
+If you'd rather use "Add from File" without unzipping the full release, [`outlook-rewrite-manifest.xml`](outlook-rewrite-manifest.xml) in this repo is the same file on its own.
+
 ## How to use
 
 **Classic Outlook:** select text in an email (or just place your cursor in a paragraph), right-click → **Rewrite**, or click the Rewrite button on the ribbon. The text is replaced in place. Press Ctrl+Z to undo.
